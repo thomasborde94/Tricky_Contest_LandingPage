@@ -106,3 +106,15 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
+
+#github {
+    width: 100px;
+}
+
+#download {
+    width: 100px;
+}
+
+#youtube {
+    width: 100px;
+}
